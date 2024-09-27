@@ -1,5 +1,7 @@
 # opendatahandbook-v2
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/83c4a1770a37409c90afe5cb3682744b)](https://app.codacy.com/gh/fatash89/opendatahandbook?utm_source=github.com&utm_medium=referral&utm_content=fatash89/opendatahandbook&utm_campaign=Badge_Grade_Settings)
+
 Repository of http://opendatahandbook.org/
 
 This is a [Jekyll](http://jekyllrb.com/) based site, with pages written in HTML and [Markdown](http://daringfireball.net/projects/markdown/syntax) (specifically [Kramdown](http://kramdown.gettalong.org/syntax.html)), with Markdown being used where possible for ease of editing.
